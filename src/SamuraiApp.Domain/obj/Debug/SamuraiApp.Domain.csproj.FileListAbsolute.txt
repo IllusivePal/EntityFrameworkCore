@@ -1,0 +1,146 @@
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\SamuraiApp.Domain.dll.config
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\SamuraiApp.Domain.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\SamuraiApp.Domain.pdb
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\Microsoft.EntityFrameworkCore.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\Microsoft.Extensions.Logging.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\Microsoft.Extensions.Options.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\Microsoft.Extensions.Primitives.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\Microsoft.Win32.Primitives.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\Remotion.Linq.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\System.AppContext.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\System.Collections.Immutable.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\System.Console.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\System.Globalization.Calendars.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\System.Interactive.Async.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\System.IO.Compression.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\System.IO.Compression.ZipFile.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\System.IO.FileSystem.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\System.IO.FileSystem.Primitives.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\System.Net.Http.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\System.Net.Sockets.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\System.Security.Cryptography.Algorithms.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\System.Security.Cryptography.Encoding.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\System.Security.Cryptography.Primitives.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\System.Xml.ReaderWriter.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\Microsoft.EntityFrameworkCore.xml
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\Microsoft.Extensions.Logging.xml
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\Microsoft.Extensions.Options.xml
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\Microsoft.Extensions.Primitives.xml
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\Remotion.Linq.xml
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\System.Collections.Immutable.xml
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\System.Interactive.Async.xml
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\obj\Debug\SamuraiApp.Domain.csprojResolveAssemblyReference.cache
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\obj\Debug\SamuraiApp.Domain.csproj.CoreCompileInputs.cache
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\obj\Debug\SamuraiApp.Domain.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\obj\Debug\SamuraiApp.Domain.pdb
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\System.Text.Encodings.Web.dll
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.xml
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SamuraiApp.Domain\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\SamuraiApp.Domain.dll.config
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\SamuraiApp.Domain.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\SamuraiApp.Domain.pdb
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\Remotion.Linq.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\System.AppContext.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\System.Console.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\System.Interactive.Async.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\System.IO.Compression.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\System.Net.Http.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\System.Net.Sockets.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.xml
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\Remotion.Linq.xml
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\System.Interactive.Async.xml
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\obj\Debug\SamuraiApp.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\obj\Debug\SamuraiApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\obj\Debug\SamuraiApp.Domain.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\src\SamuraiApp.Domain\obj\Debug\SamuraiApp.Domain.pdb

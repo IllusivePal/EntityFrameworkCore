@@ -1,0 +1,7 @@
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SomeUI\bin\Debug\SomeUI.exe.config
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SomeUI\bin\Debug\SomeUI.exe
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SomeUI\bin\Debug\SomeUI.pdb
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SomeUI\obj\Debug\SomeUI.csprojResolveAssemblyReference.cache
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SomeUI\obj\Debug\SomeUI.csproj.CoreCompileInputs.cache
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SomeUI\obj\Debug\SomeUI.exe
+c:\users\kyamc\documents\visual studio 2017\Projects\SamuraiApp\SomeUI\obj\Debug\SomeUI.pdb

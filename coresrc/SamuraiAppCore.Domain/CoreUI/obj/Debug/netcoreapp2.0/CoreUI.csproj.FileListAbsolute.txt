@@ -1,0 +1,15 @@
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\coresrc\SamuraiAppCore.Domain\CoreUI\bin\Debug\netcoreapp2.0\CoreUI.deps.json
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\coresrc\SamuraiAppCore.Domain\CoreUI\bin\Debug\netcoreapp2.0\CoreUI.runtimeconfig.json
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\coresrc\SamuraiAppCore.Domain\CoreUI\bin\Debug\netcoreapp2.0\CoreUI.runtimeconfig.dev.json
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\coresrc\SamuraiAppCore.Domain\CoreUI\bin\Debug\netcoreapp2.0\CoreUI.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\coresrc\SamuraiAppCore.Domain\CoreUI\bin\Debug\netcoreapp2.0\CoreUI.pdb
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\coresrc\SamuraiAppCore.Domain\CoreUI\bin\Debug\netcoreapp2.0\SamuraiAppCore.Data.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\coresrc\SamuraiAppCore.Domain\CoreUI\bin\Debug\netcoreapp2.0\SamuraiAppCore.Domain.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\coresrc\SamuraiAppCore.Domain\CoreUI\bin\Debug\netcoreapp2.0\SamuraiAppCore.Data.pdb
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\coresrc\SamuraiAppCore.Domain\CoreUI\bin\Debug\netcoreapp2.0\SamuraiAppCore.Domain.pdb
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\coresrc\SamuraiAppCore.Domain\CoreUI\obj\Debug\netcoreapp2.0\CoreUI.csprojResolveAssemblyReference.cache
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\coresrc\SamuraiAppCore.Domain\CoreUI\obj\Debug\netcoreapp2.0\CoreUI.csproj.CoreCompileInputs.cache
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\coresrc\SamuraiAppCore.Domain\CoreUI\obj\Debug\netcoreapp2.0\CoreUI.AssemblyInfoInputs.cache
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\coresrc\SamuraiAppCore.Domain\CoreUI\obj\Debug\netcoreapp2.0\CoreUI.AssemblyInfo.cs
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\coresrc\SamuraiAppCore.Domain\CoreUI\obj\Debug\netcoreapp2.0\CoreUI.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\coresrc\SamuraiAppCore.Domain\CoreUI\obj\Debug\netcoreapp2.0\CoreUI.pdb
