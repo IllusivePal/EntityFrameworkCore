@@ -900,6 +900,9 @@
       "SamuraiAppCore.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "SamuraiAppCore.Data": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/SamuraiAppCore.Domain.dll": {}
         },
@@ -3478,5 +3481,16 @@
         "warn": true
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1606",
+      "level": "Error",
+      "message": "Cycle detected. \r\n  SamuraiAppCore.Data (>= 1.0.0) -> SamuraiAppCore.Domain (>= 1.0.0) -> SamuraiAppCore.Data (>= 1.0.0).",
+      "libraryId": "SamuraiAppCore.Data",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.0"
+      ]
+    }
+  ]
 }
