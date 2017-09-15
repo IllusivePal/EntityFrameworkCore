@@ -1,0 +1,11 @@
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\scaffoldsrc\ScaffoldFromData\bin\Debug\netcoreapp2.0\ScaffoldFromData.deps.json
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\scaffoldsrc\ScaffoldFromData\bin\Debug\netcoreapp2.0\ScaffoldFromData.runtimeconfig.json
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\scaffoldsrc\ScaffoldFromData\bin\Debug\netcoreapp2.0\ScaffoldFromData.runtimeconfig.dev.json
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\scaffoldsrc\ScaffoldFromData\bin\Debug\netcoreapp2.0\ScaffoldFromData.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\scaffoldsrc\ScaffoldFromData\obj\Debug\netcoreapp2.0\ScaffoldFromData.csprojResolveAssemblyReference.cache
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\scaffoldsrc\ScaffoldFromData\obj\Debug\netcoreapp2.0\ScaffoldFromData.csproj.CoreCompileInputs.cache
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\scaffoldsrc\ScaffoldFromData\obj\Debug\netcoreapp2.0\ScaffoldFromData.AssemblyInfoInputs.cache
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\scaffoldsrc\ScaffoldFromData\obj\Debug\netcoreapp2.0\ScaffoldFromData.AssemblyInfo.cs
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\scaffoldsrc\ScaffoldFromData\bin\Debug\netcoreapp2.0\ScaffoldFromData.pdb
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\scaffoldsrc\ScaffoldFromData\obj\Debug\netcoreapp2.0\ScaffoldFromData.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\scaffoldsrc\ScaffoldFromData\obj\Debug\netcoreapp2.0\ScaffoldFromData.pdb
