@@ -177,6 +177,7 @@
     <Compile Include="Qoute.cs" />
     <Compile Include="Samurai.cs" />
     <Compile Include="SamuraiBattle.cs" />
+    <Compile Include="SecretIdentity.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />

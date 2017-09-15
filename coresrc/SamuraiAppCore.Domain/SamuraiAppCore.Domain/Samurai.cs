@@ -16,6 +16,7 @@ namespace SamuraiAppCore.Domain
         public int Id { get; set; }
         public string Name { get; set; }
         public List<Qoute> Quotes { get; set; }
-        public int BattleId { get; set; }
+        //public int BattleId { get; set; }
+        public List<SamuraiBattle> SamuraiBattles { get; set; }
     }
 }
