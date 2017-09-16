@@ -1,0 +1,11 @@
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\TestingSrc\TestingDataFrameworkCore\bin\Debug\netcoreapp2.0\TestingDataFrameworkCore.deps.json
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\TestingSrc\TestingDataFrameworkCore\bin\Debug\netcoreapp2.0\TestingDataFrameworkCore.runtimeconfig.json
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\TestingSrc\TestingDataFrameworkCore\bin\Debug\netcoreapp2.0\TestingDataFrameworkCore.runtimeconfig.dev.json
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\TestingSrc\TestingDataFrameworkCore\bin\Debug\netcoreapp2.0\TestingDataFrameworkCore.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\TestingSrc\TestingDataFrameworkCore\bin\Debug\netcoreapp2.0\TestingDataFrameworkCore.pdb
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\TestingSrc\TestingDataFrameworkCore\obj\Debug\netcoreapp2.0\TestingDataFrameworkCore.csprojResolveAssemblyReference.cache
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\TestingSrc\TestingDataFrameworkCore\obj\Debug\netcoreapp2.0\TestingDataFrameworkCore.csproj.CoreCompileInputs.cache
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\TestingSrc\TestingDataFrameworkCore\obj\Debug\netcoreapp2.0\TestingDataFrameworkCore.AssemblyInfoInputs.cache
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\TestingSrc\TestingDataFrameworkCore\obj\Debug\netcoreapp2.0\TestingDataFrameworkCore.AssemblyInfo.cs
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\TestingSrc\TestingDataFrameworkCore\obj\Debug\netcoreapp2.0\TestingDataFrameworkCore.dll
+C:\Users\Kyamc\Aspnet_Core\EntityFrameworkCore\TestingSrc\TestingDataFrameworkCore\obj\Debug\netcoreapp2.0\TestingDataFrameworkCore.pdb

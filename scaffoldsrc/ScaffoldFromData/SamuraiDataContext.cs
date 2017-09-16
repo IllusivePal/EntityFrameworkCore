@@ -6,16 +6,16 @@ namespace ScaffoldFromData
 {
     public partial class SamuraiDataContext : DbContext
     {
-        public virtual DbSet<Battles> Battles { get; set; }
+        public virtual DbSet<Battle> Battles { get; set; }
         public virtual DbSet<Quotes> Quotes { get; set; }
         public virtual DbSet<SamuraiBattle> SamuraiBattle { get; set; }
-        public virtual DbSet<Samurais> Samurais { get; set; }
+        public virtual DbSet<Samurai> Samurais { get; set; }
         public virtual DbSet<SecretIdentity> SecretIdentity { get; set; }
         public virtual DbSet<TestingTable> TestingTable { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            #warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
+           
             optionsBuilder.UseSqlServer(@"Server=ZYLUN-PC-0396\SQL2014;Database=SamuraiData;user id=sa;password=systemadmin");
         }
 
