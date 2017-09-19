@@ -5,15 +5,15 @@ namespace TestingFrameworkCore.Data.Models
 {
     public partial class TransactionDetailMaster
     {
-        public string TdmtTransactionDetailCode { get; set; }
-        public string TdmtTransactionCode { get; set; }
-        public string TdmtProductCode { get; set; }
-        public decimal? TdmtQuantity { get; set; }
-        public decimal? TdmtPrice { get; set; }
-        public decimal? TdmtTotalPayment { get; set; }
-        public string TdmtStatus { get; set; }
-        public DateTime? TdmtDate { get; set; }
+        public string Tdmt_TransactionDetailCode { get; set; }
+        public string Tdmt_TransactionCode { get; set; }
+        public string Tdmt_ProductCode { get; set; }
+        public decimal? Tdmt_Quantity { get; set; }
+        public decimal? Tdmt_Price { get; set; }
+        public decimal? Tdmt_TotalPayment { get; set; }
+        public string Tdmt_Status { get; set; }
+        public DateTime? Tdmt_Date { get; set; }
 
-        public virtual ProductMaster TdmtProductCodeNavigation { get; set; }
+        public  ProductMaster ProductMaster { get; set; }
     }
 }

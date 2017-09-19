@@ -8,9 +8,10 @@ using TestingFrameworkCore.Data.Models;
 namespace TestingFrameworkCore.Data.Migrations
 {
     [DbContext(typeof(TestFramworkCoreDBContext))]
-    partial class TestFramworkCoreDBContextModelSnapshot : ModelSnapshot
+    [Migration("20170919070548_renameLastNameColumn")]
+    partial class renameLastNameColumn
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
             modelBuilder
                 .HasAnnotation("ProductVersion", "1.1.2")
@@ -30,7 +31,7 @@ namespace TestingFrameworkCore.Data.Migrations
                     b.HasIndex("Amt_UmtUserCode")
                         .IsUnique();
 
-                    b.ToTable("AuthIdentityUserMasters");
+                    b.ToTable("AuthIdentityMaster");
                 });
 
             modelBuilder.Entity("TestingFrameworkCore.Data.Models.HistoryTableMaster", b =>

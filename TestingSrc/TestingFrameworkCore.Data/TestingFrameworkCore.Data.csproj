@@ -173,41 +173,38 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Migrations\20170916012021_ChangeProductModel.cs" />
-    <Compile Include="Migrations\20170916012021_ChangeProductModel.designer.cs">
-      <DependentUpon>20170916012021_ChangeProductModel.cs</DependentUpon>
+    <Compile Include="Migrations\20170919065952_Initial.cs" />
+    <Compile Include="Migrations\20170919065952_Initial.designer.cs">
+      <DependentUpon>20170919065952_Initial.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\20170916014403_ChangeStatusName.cs" />
-    <Compile Include="Migrations\20170916014403_ChangeStatusName.designer.cs">
-      <DependentUpon>20170916014403_ChangeStatusName.cs</DependentUpon>
+    <Compile Include="Migrations\20170919070402_addNewColumnGender.cs" />
+    <Compile Include="Migrations\20170919070402_addNewColumnGender.designer.cs">
+      <DependentUpon>20170919070402_addNewColumnGender.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\20170916014912_AddModelInProductsTable.cs" />
-    <Compile Include="Migrations\20170916014912_AddModelInProductsTable.designer.cs">
-      <DependentUpon>20170916014912_AddModelInProductsTable.cs</DependentUpon>
+    <Compile Include="Migrations\20170919070548_renameLastNameColumn.cs" />
+    <Compile Include="Migrations\20170919070548_renameLastNameColumn.designer.cs">
+      <DependentUpon>20170919070548_renameLastNameColumn.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\20170916020248_revertChangeColoumnnamr.cs" />
-    <Compile Include="Migrations\20170916020248_revertChangeColoumnnamr.designer.cs">
-      <DependentUpon>20170916020248_revertChangeColoumnnamr.cs</DependentUpon>
+    <Compile Include="Migrations\20170919071835_RenamedIdentityUserTable.cs" />
+    <Compile Include="Migrations\20170919071835_RenamedIdentityUserTable.designer.cs">
+      <DependentUpon>20170919071835_RenamedIdentityUserTable.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\20170916025521_AddSchema.cs" />
-    <Compile Include="Migrations\20170916025521_AddSchema.designer.cs">
-      <DependentUpon>20170916025521_AddSchema.cs</DependentUpon>
+    <Compile Include="Migrations\20170919073416_ChangedDeleteBehaviorinAutIdentity.cs" />
+    <Compile Include="Migrations\20170919073416_ChangedDeleteBehaviorinAutIdentity.designer.cs">
+      <DependentUpon>20170919073416_ChangedDeleteBehaviorinAutIdentity.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\20170916032806_AddHistoryTable.cs" />
-    <Compile Include="Migrations\20170916032806_AddHistoryTable.designer.cs">
-      <DependentUpon>20170916032806_AddHistoryTable.cs</DependentUpon>
+    <Compile Include="Migrations\20170919073619_RevertToCasCade.cs" />
+    <Compile Include="Migrations\20170919073619_RevertToCasCade.designer.cs">
+      <DependentUpon>20170919073619_RevertToCasCade.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\20170916035831_addAuthIdentityClass.cs" />
-    <Compile Include="Migrations\20170916035831_addAuthIdentityClass.designer.cs">
-      <DependentUpon>20170916035831_addAuthIdentityClass.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\20170916070107_onetoonerelationship.cs" />
-    <Compile Include="Migrations\20170916070107_onetoonerelationship.designer.cs">
-      <DependentUpon>20170916070107_onetoonerelationship.cs</DependentUpon>
+    <Compile Include="Migrations\20170919074946_RevertCascadeV2.cs" />
+    <Compile Include="Migrations\20170919074946_RevertCascadeV2.designer.cs">
+      <DependentUpon>20170919074946_RevertCascadeV2.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\TestFramworkCoreDBContextModelSnapshot.cs" />
-    <Compile Include="Models\AuthIdentity.cs" />
-    <Compile Include="Models\HistoryTable.cs" />
+    <Compile Include="Models\AuthIdentityMaster.cs" />
+    <Compile Include="Models\HistoryTableMaster.cs" />
+    <Compile Include="Models\ProductAccountCodeIdentityMaster.cs" />
     <Compile Include="Models\TestFramworkCoreDBContext.cs" />
     <Compile Include="Models\ProductMaster.cs" />
     <Compile Include="Models\TransactionDetailMaster.cs" />
