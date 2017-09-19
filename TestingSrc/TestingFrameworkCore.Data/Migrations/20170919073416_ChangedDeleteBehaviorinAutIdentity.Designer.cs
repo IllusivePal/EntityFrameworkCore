@@ -8,9 +8,10 @@ using TestingFrameworkCore.Data.Models;
 namespace TestingFrameworkCore.Data.Migrations
 {
     [DbContext(typeof(TestFramworkCoreDBContext))]
-    partial class TestFramworkCoreDBContextModelSnapshot : ModelSnapshot
+    [Migration("20170919073416_ChangedDeleteBehaviorinAutIdentity")]
+    partial class ChangedDeleteBehaviorinAutIdentity
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
             modelBuilder
                 .HasAnnotation("ProductVersion", "1.1.2")
@@ -163,8 +164,7 @@ namespace TestingFrameworkCore.Data.Migrations
                 {
                     b.HasOne("TestingFrameworkCore.Data.Models.UserMaster", "UserMaster")
                         .WithOne("AuthIdentityMaster")
-                        .HasForeignKey("TestingFrameworkCore.Data.Models.AuthIdentityMaster", "Amt_UmtUserCode")
-                        .OnDelete(DeleteBehavior.Cascade);
+                        .HasForeignKey("TestingFrameworkCore.Data.Models.AuthIdentityMaster", "Amt_UmtUserCode");
                 });
 
             modelBuilder.Entity("TestingFrameworkCore.Data.Models.HistoryTableMaster", b =>

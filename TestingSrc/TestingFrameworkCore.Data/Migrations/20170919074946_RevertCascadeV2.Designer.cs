@@ -8,9 +8,10 @@ using TestingFrameworkCore.Data.Models;
 namespace TestingFrameworkCore.Data.Migrations
 {
     [DbContext(typeof(TestFramworkCoreDBContext))]
-    partial class TestFramworkCoreDBContextModelSnapshot : ModelSnapshot
+    [Migration("20170919074946_RevertCascadeV2")]
+    partial class RevertCascadeV2
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
             modelBuilder
                 .HasAnnotation("ProductVersion", "1.1.2")
